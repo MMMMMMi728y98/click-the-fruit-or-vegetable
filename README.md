@@ -1,4 +1,4 @@
-[![.github/workflows/azure-webapps-node.yml](https://github.com/MMMMMMi728y98/click-the-fruit-or-vegetable/actions/workflows/azure-webapps-node.yml/badge.svg)](https://github.com/MMMMMMi728y98/click-the-fruit-or-vegetable/actions/workflows/azure-webapps-node.yml)
+[![.github/workflows/azure-webapps-node.yml](https://github.com/MMMMMMi728y98/click-the-fruit-or-vegetable/actions/workflows/azure-webapps-node.yml/badge.svg)][![Deploy Astro site to Pages](https://github.com/MMMMMMi728y98/click-the-fruit-or-vegetable/actions/workflows/astro.yml/badge.svg)](https://github.com/MMMMMMi728y98/click-the-fruit-or-vegetable/actions/workflows/astro.yml)(https://github.com/MMMMMMi728y98/click-the-fruit-or-vegetable/actions/workflows/azure-webapps-node.yml)
 
 [![Deploy Astro site to Pages](https://github.com/MMMMMMi728y98/click-the-fruit-or-vegetable/actions/workflows/astro.yml/badge.svg)](https://github.com/MMMMMMi728y98/click-the-fruit-or-vegetable/actions/workflows/astro.yml)
 
