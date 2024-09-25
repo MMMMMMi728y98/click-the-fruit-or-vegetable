@@ -1,6 +1,5 @@
-[![.github/workflows/azure-webapps-node.yml](https://github.com/MMMMMMi728y98/click-the-fruit-or-vegetable/actions/workflows/azure-webapps-node.yml/badge.svg)] [![Deploy Astro site to Pages](https://github.com/MMMMMMi728y98/click-the-fruit-or-vegetable/actions/workflows/astro.yml/badge.svg)](https://github.com/MMMMMMi728y98/click-the-fruit-or-vegetable/actions/workflows/astro.yml)(https://github.com/MMMMMMi728y98/click-the-fruit-or-vegetable/actions/workflows/azure-webapps-node.yml)
+[![.github/workflows/azure-webapps-node.yml](https://github.com/MMMMMMi728y98/click-the-fruit-or-vegetable/actions/workflows/azure-webapps-node.yml/badge.svg)] [![Deploy Astro site to Pages](https://github.com/MMMMMMi728y98/click-the-fruit-or-vegetable/actions/workflows/astro.yml/badge.svg)](https://github.com/MMMMMMi728y98/click-the-fruit-or-vegetable/actions/workflows/astro.yml)
 
-[![Deploy Astro site to Pages](https://github.com/MMMMMMi728y98/click-the-fruit-or-vegetable/actions/workflows/astro.yml/badge.svg)](https://github.com/MMMMMMi728y98/click-the-fruit-or-vegetable/actions/workflows/astro.yml)
 
 ## This repository may not be copied by any user aware of their own rights. This project is made for a school project.
 ## ANDREW SHIN's MEMORY MATCHING GAME!!!
