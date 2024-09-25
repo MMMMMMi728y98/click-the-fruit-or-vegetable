@@ -1,3 +1,4 @@
+ENV=SOURCEOFCODE
 FROM ubuntu:14.04
 MAINTAINER Dan Liew <daniel.liew@imperial.ac.uk>
 
