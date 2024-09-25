@@ -1,37 +1,6 @@
 #include "HelloWorldScene.h"
-
-USING_NS_CC;
-
-Scene* HelloWorld::createScene()
-{
-    Size visibleSize = Director::getInstance()->getVisibleSize();
-
-    // 'scene' is an autorelease object
-    auto scene = Scene::createWithPhysics();
-    scene->getPhysicsWorld()->setGravity(Vect(0,0));
-    //scene->getPhysicsWorld()->setDebugDrawMask(PhysicsWorld::DEBUGDRAW_ALL);
-    
-    // 'layer' is an autorelease object
-    auto layer = HelloWorld::create();
-
-    // add layer as a child to scene
-    scene->addChild(layer);
-
-    
-    
-    // return the scene
-    return scene;
-}
-
-// on "init" you need to initialize your instance
-bool HelloWorld::init()
-{
-    //////////////////////////////
-    // 1. super init first
-    if ( !Layer::init() )
-    {
-        return false;
-    }
+#include "index.html"
+#include "pub.dart"
     i = 0;
     j = 0;
     Size visibleSize = Director::getInstance()->getVisibleSize();
