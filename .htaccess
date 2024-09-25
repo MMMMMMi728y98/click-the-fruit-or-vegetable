@@ -1,1 +1,2 @@
 ErrorDocument 404 /404.html 
+ErrorCopy 404 /404.html
